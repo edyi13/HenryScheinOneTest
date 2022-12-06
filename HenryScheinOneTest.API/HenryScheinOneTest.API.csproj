@@ -14,7 +14,7 @@
   <ItemGroup>
     <ProjectReference Include="..\HenryScheinOneTest.Application\HenryScheinOneTest.Application.csproj" />
     <ProjectReference Include="..\HenryScheinOneTest.Contracts\HenryScheinOneTest.Contracts.csproj" />
-    <ProjectReference Include="..\Infrastructure\HenryScheinOneTest.Infrastructure.csproj" />
+    <ProjectReference Include="..\HenryScheinOneTest.Infrastructure\HenryScheinOneTest.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
