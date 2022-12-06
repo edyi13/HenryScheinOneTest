@@ -21,6 +21,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HenryScheinOneTest.Infrastructure", "HenryScheinOneTest.Infrastructure\HenryScheinOneTest.Infrastructure.csproj", "{F338F3BC-3084-439B-9A81-4161FECF2FA7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FILE", "FILE", "{6705F2ED-CF47-481A-806A-6865BA2C9B7F}"
+	ProjectSection(SolutionItems) = preProject
+		SampleHOFile.csv = SampleHOFile.csv
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
